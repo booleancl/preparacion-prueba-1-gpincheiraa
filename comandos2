@@ -7,4 +7,4 @@ cd academia
 rm lista.txt
 rm pendientes.txt
 cd ..
-rmdir academia
+rmdir acadmia
