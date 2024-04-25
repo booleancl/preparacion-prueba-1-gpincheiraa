@@ -10,7 +10,7 @@ cd administracion
 mkdir modulo-00
 cd modulo-00
 touch index.md
-cd ..
+cd .
 mkdir modulo-01
 cd modulo-01
 touch index.md
