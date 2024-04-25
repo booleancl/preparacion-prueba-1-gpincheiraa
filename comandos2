@@ -3,3 +3,8 @@
 # Eliminar la carpeta "academia" dentro de la carpeta soymas
 cd soymas
 
+cd academia
+rm lista.txt
+rm pendientes.txt
+cd ..
+rmdir academia
